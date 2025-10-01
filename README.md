@@ -78,3 +78,22 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 
 ***MODULE 1 FINISH***
 
+
+
+**MODULE 2**
+
+**Video - 1**
+
+What I learned - 
+
+1) Creation of Datasets in Langsmith
+2) Adding data to the Dataset in Langsmith
+3) Debugging Dataset not found error due to key mismatch
+
+Changes I made -
+
+1)Added own example at the end to check another addition of a trace to the database and its metadata
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/dataset_upload.ipynb
+
