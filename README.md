@@ -21,6 +21,7 @@ Changes I made -
 Link to the Source File - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/tracing_basics.ipynb
 
 
+
 **Video - 2**
 What I learned - 
 
@@ -57,4 +58,23 @@ Changes I made -
 
 
 Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/alternative_tracing_methods.ipynb
+
+
+**Video - 4**
+What I learned - 
+
+1) Meaning of Threads, their occurrence and how they appear on the Run Trees and their linkage.
+2) Metadata session_id, thread_id, conversation_id and the uuid value.
+3) Formatting affects on the Tracing outputs.
+
+Changes I made -
+
+1)Altered prompts to see if they affect threads and tracing.
+
+2)Added own example at the end which includes multiple threads being created.
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_1/conversational_threads.ipynb
+
+***MODULE 1 FINISH***
 
