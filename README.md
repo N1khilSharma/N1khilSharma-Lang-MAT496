@@ -116,3 +116,22 @@ Changes I made -
 Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/evaluators.ipynb
 
 
+**Video - 3**
+What I learned - 
+
+1) Definition of an Experiment and how to operate it in langsmith.
+2) Usecases of Experiments such as changing the model to see how the result changes
+3) Running Experiments on specific a specific subset of examples
+
+Changes I made -
+
+1)Altered models to see different responses to the experiment.
+
+2)Added Splits to the dataset.
+
+3)Added an experiment of comparing different trace methods for temperature values
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/experiments.ipynb
+
+
