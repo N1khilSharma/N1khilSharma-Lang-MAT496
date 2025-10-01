@@ -136,6 +136,7 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 
 
 **Video - 4**
+
 What I learned - 
 
 1) Analyzing and filtering different outcomes of the experiments by different input models and prompts in forms of charts.
@@ -144,5 +145,20 @@ What I learned -
 
 
 **Video - 5** 
+
+What I learned - 
+
+1) Meaning and Implementation of Pairwase Experiment
+2) Encoding preference scores at the place of individual scores.
+
+Changes I made -
+
+1) Added example of altering temperatures to see output difference and then evaluating them pairwise.
+2) Slightly altered prompts to have a higher difference in score of the given dataset comparison.
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/pairwise_experiments.ipynb
+
+
 
 
