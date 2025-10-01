@@ -4,9 +4,16 @@
 
 **Roll_number - 2410110219**
 
+
+
+
+
+
+
 **MODULE 1**
 
 **Video - 1**
+
 What I learned -
 
 1) Tracing implementation, application and usage.
@@ -23,6 +30,7 @@ Link to the Source File - https://github.com/langchain-ai/intro-to-langsmith/blo
 
 
 **Video - 2**
+
 What I learned - 
 
 1) Types of runs supported by langsmith in @Traceable decorator
@@ -40,6 +48,7 @@ Link to the Source File - https://github.com/langchain-ai/intro-to-langsmith/blo
 
 
 **Video - 3**
+
 What I learned - 
 
 1) Checking Traces created by langgraph and the nodes created
@@ -61,6 +70,7 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 
 
 **Video - 4**
+
 What I learned - 
 
 1) Meaning of Threads, their occurrence and how they appear on the Run Trees and their linkage.
@@ -101,6 +111,7 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 
 
 **Video - 2**
+
 What I learned - 
 
 1) Definition of an Evaluator the reference it takes and the output it gives.
@@ -117,6 +128,7 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 
 
 **Video - 3**
+
 What I learned - 
 
 1) Definition of an Experiment and how to operate it in langsmith.
@@ -159,6 +171,19 @@ Changes I made -
 
 Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/pairwise_experiments.ipynb
 
+
+**Video - 6**
+
+What I learned - 
+
+1) Setting up summary evaluators and its implementations.
+2) Metrics for summary evaluators can be only meaningfully evaluated over entire experiments instead of a specific runs.
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/summary_evaluators.ipynb
+
+
+***MODULE 2 FINISH***
 
 
 
