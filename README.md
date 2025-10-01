@@ -135,3 +135,14 @@ Changes I made -
 Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/experiments.ipynb
 
 
+**Video - 4**
+What I learned - 
+
+1) Analyzing and filtering different outcomes of the experiments by different input models and prompts in forms of charts.
+2) Displaying full input outputs for the iteration with all metrics including latency ,token, stats and eval scores.
+3) Comparing Experiments evaluations next to each other.
+
+
+**Video - 5** 
+
+
