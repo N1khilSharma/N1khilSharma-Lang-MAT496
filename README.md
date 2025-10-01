@@ -80,6 +80,8 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 
 
 
+
+
 **MODULE 2**
 
 **Video - 1**
@@ -96,4 +98,21 @@ Changes I made -
 
 
 Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/dataset_upload.ipynb
+
+
+**Video - 2**
+What I learned - 
+
+1) Definition of an Evaluator the reference it takes and the output it gives.
+2) Encoding grading prompts for LLMs as Judge
+3) Types of Evaluators such as correctness, hallucination, conciseness, code checker 
+
+Changes I made -
+
+1)Added an example at the end trying to get a low, moderate and high output in semantic similarity.
+2)Slightly altered prompts to get different semantic scores from the given code.
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_2/evaluators.ipynb
+
 
