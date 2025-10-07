@@ -186,4 +186,27 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 ***MODULE 2 FINISH***
 
 
+**MODULE 3**
+
+**Video - 1**
+
+What I learned - 
+
+1)What are prompt templates
+2)Using Playground interface on the langsmith website (changing models, setting temperatures and changing other parameters and running them side by side)
+3)Meaning and Application of Input and Output Schema, Adding Tools
+
+Changes I made - 
+1)Tried comparing models in Playground in the Langsmith website.
+2)Created a code cell at the end of the code trying to create a new dataset with similar prompt scheme.
+
+
+<img width="256" height="265" alt="image" src="https://github.com/user-attachments/assets/0dc8792b-a6f3-4e6d-a501-27dbdd83856b" />
+
+
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/playground_experiments.ipynb
+
+
 
