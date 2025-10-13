@@ -234,3 +234,34 @@ Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/noteb
 
 
 
+
+
+
+**Video - 3**
+
+What I learned - 
+
+1)Accessing Playground from RunTree to get the details of the trace
+
+2)Running repetitions in playground with the same prompt can give different outputs even for code examples.
+
+3)Changing code and removing manual format after pulling prompt form Langsmith and getting response in OpenAI format.
+
+
+Changes I made - 
+
+1)Changed Prompts in ipynb file and also in Langsmith playground and tested over different datasets.
+
+2)Added a code cell at the end to update prompt to a better prompt than the existing prompt after pulling it from langsmith.
+
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2a332fa5-f038-4b52-a69d-a52408545415" />
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_engineering_lifecycle.ipynb
+
+
+
+
+
+
