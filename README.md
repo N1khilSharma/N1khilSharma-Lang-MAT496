@@ -208,5 +208,29 @@ Changes I made -
 
 Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/playground_experiments.ipynb
 
+**Video - 2**
+
+What I learned - 
+
+1)What are prompt templates, Hydrated prompts, runnable binding object of Langchain
+
+2)Pulling Prompt templates from Langsmith over to the ipynb file using hub.pull()
+
+3)Commiting changes in langsmith playground and pulling them in the ipynb file
+
+
+Changes I made - 
+
+1)Altered a few prompts in the code and also altered them in the playground.
+
+2)Added all commit details for personal playground experiment named astro.
+
+
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/c38a611d-2e52-410c-a149-00e30e7e999b" />
+
+
+Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_hub.ipynb
+
 
 
