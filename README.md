@@ -261,6 +261,21 @@ Changes I made -
 Source Link - https://github.com/langchain-ai/intro-to-langsmith/blob/main/notebooks/module_3/prompt_engineering_lifecycle.ipynb
 
 
+**Video 4**
+
+What I learned - 
+1) Accessing canvas in Langsmith via playground and using the interface like changing prompts in place to make them better.
+
+2) Setting prompts via canvas and alternating between previous version of the prompt in canvas
+
+3) Implementing changes using custom actions , reading levels and length and checking diff.
+
+   
+<img width="256" height="256" alt="Screenshot 2025-10-13 194533" src="https://github.com/user-attachments/assets/26b23f8f-b25a-471e-adff-f5861cab9900" />
+
+***MODULE 3 FINISH***
+
+
 
 
 
